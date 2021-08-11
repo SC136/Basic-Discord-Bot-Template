@@ -15,4 +15,4 @@ Then Open Command Prompt And Navigate Where You Saved The File ie. `index.js` Th
 
 Then The Bot Should Be Online And You Can Use Ping Command To Check...
 
-[Example Image](https://cdn.discordapp.com/attachments/779005181760765985/875028964391923742/unknown.png)
+![Example Image](https://cdn.discordapp.com/attachments/779005181760765985/875028964391923742/unknown.png)
