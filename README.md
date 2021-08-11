@@ -11,6 +11,8 @@ Go To https://discord.com/developers And Create A New Application Then Go To Bot
 
 Then Open Command Prompt And Navigate Where You Saved The File ie. `index.js` Then Run `node .` Or `node index.js`
 
+**DONT FORGET TO `npm init -y`**
+
 Then The Bot Should Be Online And You Can Use Ping Command To Check...
 
 [Example Image](https://cdn.discordapp.com/attachments/779005181760765985/875028964391923742/unknown.png)
