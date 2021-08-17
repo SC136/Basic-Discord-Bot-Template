@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/sc136/basic-discord-bot-template/badge)](https://www.codefactor.io/repository/github/sc136/basic-discord-bot-template)
+
 # Basic-Discord-Bot-Template
 A Very Basic Discord Bot Template For Those Who Want To Start Making Discord Bots!
 
